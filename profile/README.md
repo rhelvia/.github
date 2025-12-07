@@ -1,19 +1,25 @@
 # RHelvia
 
-**Swiss Corporate Compliance Automation**
+**Your AI-Powered Chief Operating Officer**
 
-We build AI-powered tools for regulatory compliance, tax automation, and financial reporting specifically designed for Swiss companies.
+We build Auto-COO - an AI platform that acts as your virtual Chief Operating Officer, handling corporate compliance, tax automation, and financial reporting for Swiss companies.
 
-## What We Do
+## What We Build
 
-- **Regulatory Compliance** - Automated monitoring and management of Swiss regulatory requirements
-- **Tax Automation** - Streamlined Swiss VAT, withholding tax, and corporate tax processes  
-- **Financial Reporting** - Swiss GAAP compliant reporting with audit trails
-- **Multi-Tenant SaaS** - Enterprise-grade platform with bank-level security
+**RHelvia COO** - Automated compliance management for Swiss AGs and GmbHs
+
+| Feature | Description |
+|---------|-------------|
+| Regulatory Compliance | Automated monitoring of Swiss corporate law (OR, GmbHG, AktG) |
+| Tax Automation | VAT, withholding tax, and corporate tax preparation |
+| Financial Reporting | Swiss GAAP compliant reporting with full audit trails |
+| Deadline Management | Never miss a filing deadline with intelligent alerts |
 
 ## Our Stack
 
-React | TypeScript | Neon PostgreSQL | Cloudflare Workers | Stack Auth
+```
+React + TypeScript + Vite | Neon PostgreSQL | Cloudflare Workers | Stack Auth
+```
 
 ## Swiss Focus
 
@@ -21,4 +27,4 @@ Built in Switzerland, for Swiss companies. FADP compliant with EU data residency
 
 ---
 
-[rhelvia.com](https://rhelvia.com) | info@rhelvia.com
+[rhelvia.com](https://rhelvia.com) | [coo.rhelvia.com](https://coo.rhelvia.com) | info@rhelvia.com
